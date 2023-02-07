@@ -256,11 +256,11 @@
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio2.jpg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio3.jpg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >

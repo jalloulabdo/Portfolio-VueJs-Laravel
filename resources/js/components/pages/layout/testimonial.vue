@@ -9,7 +9,7 @@
                     <div class="testimonial_content swiper-slide">
                         <div class="testimonial_data">
                             <div class="testimonial_header">
-                                <img src="img/testimonial1.jpeg" alt="" class="testimonial_img">
+                                <img src="/img/testimonial1.jpeg" alt="" class="testimonial_img">
 
                                 <div>
                                     <h3 class="testimonial_name">Jay Smith</h3>
@@ -34,7 +34,7 @@
                     <div class="testimonial_content swiper-slide">
                         <div class="testimonial_data">
                             <div class="testimonial_header">
-                                <img src="img/testimonial2.jpg" alt="" class="testimonial_img">
+                                <img src="/img/testimonial2.jpg" alt="" class="testimonial_img">
 
                                 <div>
                                     <h3 class="testimonial_name">John Smith</h3>
@@ -59,7 +59,7 @@
                     <div class="testimonial_content swiper-slide">
                         <div class="testimonial_data">
                             <div class="testimonial_header">
-                                <img src="img/testimonial3.jpeg" alt="" class="testimonial_img">
+                                <img src="/img/testimonial3.jpeg" alt="" class="testimonial_img">
 
                                 <div>
                                     <h3 class="testimonial_name">Mike Smith</h3>

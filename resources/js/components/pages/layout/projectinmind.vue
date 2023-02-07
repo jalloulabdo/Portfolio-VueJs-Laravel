@@ -11,7 +11,7 @@
                         </a>
                     </div>
 
-                    <img src="img/home.png" alt="" class="project_img">
+                    <img src="/img/home.png" alt="" class="project_img">
                 </div>
               </div>
             </section>

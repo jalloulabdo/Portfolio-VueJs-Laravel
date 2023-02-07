@@ -7,7 +7,7 @@
                 <div class="swiper-wrapper">
                     <!--============ PORTFOLIO 1 ==============-->
                     <div class="portfolio_content grid swiper-slide">
-                        <img src="img/Screenshot2.png" alt="" class="portfolio_img">
+                        <img src="/img/Screenshot2.png" alt="" class="portfolio_img">
 
                         <div class="portfolio_data">
                             <h3 class="portfolio_title">Lux Energie Solution</h3>
@@ -19,7 +19,7 @@
                     </div>
                     <!--============ PORTFOLIO 2 ==============-->
                     <div class="portfolio_content grid swiper-slide">
-                        <img src="img/Screenshot.png" alt="" class="portfolio_img">
+                        <img src="/img/Screenshot.png" alt="" class="portfolio_img">
 
                         <div class="portfolio_data">
                             <h3 class="portfolio_title">Yobeen Cloud</h3>
@@ -30,7 +30,7 @@
                     </div>
                     <!--============ PORTFOLIO 3 ==============-->
                     <div class="portfolio_content grid swiper-slide">
-                        <img src="img/Screenshot3.png" alt="" class="portfolio_img">
+                        <img src="/img/Screenshot3.png" alt="" class="portfolio_img">
 
                         <div class="portfolio_data">
                             <h3 class="portfolio_title">Table Flipping</h3>

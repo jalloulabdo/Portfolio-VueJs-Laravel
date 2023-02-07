@@ -37,7 +37,7 @@
                         <div class="wrapper_right ">
                             <div class="card">
                                 <div class="avatar_profile">
-                                 <img src="/assets/img/avatar.jpg" alt="" class="avatar_profile_img">
+                                 <img src="/img/avatar.jpg" alt="" class="avatar_profile_img">
                                 </div>
                                 <input type="file" id="fileimg" />   
                             </div>    

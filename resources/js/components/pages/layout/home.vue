@@ -2,7 +2,7 @@
      <section class="home section" id="home">
                 <div class="home_container container grid">
                     <div class="home_img">
-                        <img src="img/home.png" alt="">
+                        <img src="/img/home.png" alt="">
                     </div>
 
                     <div class="home_data">

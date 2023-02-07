@@ -3,7 +3,7 @@
      <header class="header" id="header">
             <div class="header_logo " >
                 <i class="header_collapse-btn fas fa-align-left"></i>
-                <img class="logo_img" src="assets/img/logo.png" alt="greatweb"
+                <img class="logo_img" src="/img/logo.png" alt="greatweb"
                 />
             </div>
             <div class="header_search">
@@ -12,7 +12,7 @@
             </div>
             <div class="header_profile " @click="openNavHeader">
                 <div class="header_profile-imgWrapper ">
-                    <img class="header_profile-img" src="assets/img/avatar.jpg" alt=""/>
+                    <img class="header_profile-img" src="/img/avatar.jpg" alt=""/>
                 </div>
                 <p class="header_profile-name">
                     Zander Ford

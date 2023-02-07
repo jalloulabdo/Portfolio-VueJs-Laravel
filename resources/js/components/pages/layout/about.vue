@@ -4,7 +4,7 @@
                <span class="section__subtitle">My introduction</span>
 
                <div class="about_container container grid">
-                 <img src="img/about-img.png" alt="" class="about_img">
+                 <img src="/img/about-img.png" alt="" class="about_img">
 
                  <div class="about_data">
                     <p class="about_description">
@@ -26,7 +26,7 @@
                         </div>
                     </div>
                     <div class="about_buttons">
-                        <a href="assets/cv.pdf" class="button button--flex">
+                        <a href="/assets/cv.pdf" class="button button--flex">
                             Download CV <i class="uil uil-download-alt button_icon"></i>
                         </a>
                     </div>

@@ -252,7 +252,7 @@
                                        <p>Product</p>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
@@ -264,23 +264,23 @@
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                 </div>
@@ -300,35 +300,35 @@
                                        <p>Product</p>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                     <div class="overview_table-items" >
-                                        <img src="img/portfolio1.jpeg" style="height:50px;width:50px;" />
+                                        <img src="" style="height:50px;width:50px;" />
                                         <a>Product item.name item.name item.name</a>
                                     </div>
                                 </div>

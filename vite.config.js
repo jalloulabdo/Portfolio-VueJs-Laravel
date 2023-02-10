@@ -18,8 +18,11 @@ export default defineConfig({
             },
         }),
     ],
+    root: path.join(__dirname, "src"),
     build: {
-        outDir: '../dist'
-      }
+        outDir: path.join(__dirname, "dist"),
+        rollupOptions: {
+        input: glob.sync(path.resolve(__dirname, "src", "*.html")),
+        },
     
 });

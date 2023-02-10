@@ -19,16 +19,10 @@ export default defineConfig({
         }),
     ],
     root: 'resources',
-    base: `${ASSET_URL}/dist/`,
+    base: `${ASSET_URL}/assets/`,
  
-   build: {
-    outDir: resolve(__dirname, 'public/dist'),
-    emptyOutDir: true,
-    manifest: true,
-    target: 'es2018',
-    rollupOptions: {
-      input: '/js/app.js'
-    }
-  },
+    build: {
+        assetsDir: './assets', // Set the default assets directory to './images'
+    },
     
 });

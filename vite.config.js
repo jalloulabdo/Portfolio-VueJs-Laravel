@@ -18,9 +18,6 @@ export default defineConfig({
             },
         }),
     ],
-    root: 'resources',
-    base: `${ASSET_URL}/assets/`,
- 
     build: {
         assetsDir: './assets', // Set the default assets directory to './images'
     },

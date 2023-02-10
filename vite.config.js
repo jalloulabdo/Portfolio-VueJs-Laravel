@@ -18,12 +18,5 @@ export default defineConfig({
             },
         }),
     ],
-    build: {
-        rollupOptions: {
-            input: {
-                main: resolve(__dirname, 'src/pages/index.html'),
-                multiminerales: resolve(__dirname, 'src/pages/some-page.html')
-            }
-        }
-    }
+    
 });

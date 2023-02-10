@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
 import vue from '@vitejs/plugin-vue';
-import glob from "glob";
 
 export default defineConfig({
     plugins: [
@@ -19,11 +18,8 @@ export default defineConfig({
             },
         }),
     ],
-    root: path.join(__dirname, "src"),
     build: {
-        outDir: path.join(__dirname, "dist"),
-        rollupOptions: {
-        input: glob.sync(path.resolve(__dirname, "src", "*.html")),
-        },
+        outDir: '../dist'
+      }
     
 });

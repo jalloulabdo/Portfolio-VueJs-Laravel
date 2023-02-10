@@ -2,7 +2,7 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "build": "vite build  dist"
+        "build": "vite build  public"
     },
     "devDependencies": {
         "@vitejs/plugin-vue": "^4.0.0",

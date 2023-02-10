@@ -18,8 +18,17 @@ export default defineConfig({
             },
         }),
     ],
-    build: {
-        outDir: '../dist'
-      }
+    root: 'resources',
+    base: `${ASSET_URL}/dist/`,
+ 
+   build: {
+    outDir: resolve(__dirname, 'public/dist'),
+    emptyOutDir: true,
+    manifest: true,
+    target: 'es2018',
+    rollupOptions: {
+      input: '/js/app.js'
+    }
+  },
     
 });

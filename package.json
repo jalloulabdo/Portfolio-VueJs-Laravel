@@ -13,6 +13,7 @@
         "vite": "^4.0.0"
     },
     "dependencies": {
+        "sourcemap-codec": "^1.4.8",
         "sweetalert2": "^11.6.16",
         "swiper": "^8.4.7",
         "vue": "^3.2.36",
